@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FindObjectGame</string>
+    <string name="app_name">ObjectInquiryGame</string>
     <string name="btnVitamin">Vitamin</string>
     <string name="btnEnergy">Energy</string>
     <string name="btnDna">Dna</string>
