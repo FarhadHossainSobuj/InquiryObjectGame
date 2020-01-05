@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindObjectGame</string>
+    <string name="btnVitamin">Vitamin</string>
+    <string name="btnEnergy">Energy</string>
+    <string name="btnDna">Dna</string>
+    <string name="btnMinerals">Minerals</string>
+</resources>
